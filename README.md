@@ -1,2 +1,1 @@
-# low_level_i-o_procedures
-Contains macros for getting and displaying strings
+Contains macros for getting and displaying strings. Macros used in procedures that read string of digits and convert to numeric and then write value from string of digits converted from numeric. Test program that prompts user for 10 integers, displays sum and average.
